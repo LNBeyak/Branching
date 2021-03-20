@@ -1,1 +1,1 @@
-This is good for practicing branching
+This is good branching practice
